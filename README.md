@@ -1,6 +1,6 @@
 # devops5
 
-# 第一天作业：push
+# 第一天作业
 
 1 用户登陆与退出使用TemplateView与View去实现
 
